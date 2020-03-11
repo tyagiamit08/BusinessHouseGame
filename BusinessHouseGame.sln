@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessHouseGame", "BusinessHouseGame\BusinessHouseGame.csproj", "{F5AB449A-3070-4990-A7D7-B1DE40E91DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessHouseGame.BL", "BusinessHouseGame.BL\BusinessHouseGame.BL.csproj", "{397CE1FB-1A97-44B2-AD35-ACC8626DB11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AB449A-3070-4990-A7D7-B1DE40E91DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AB449A-3070-4990-A7D7-B1DE40E91DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AB449A-3070-4990-A7D7-B1DE40E91DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AB449A-3070-4990-A7D7-B1DE40E91DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397CE1FB-1A97-44B2-AD35-ACC8626DB11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397CE1FB-1A97-44B2-AD35-ACC8626DB11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397CE1FB-1A97-44B2-AD35-ACC8626DB11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397CE1FB-1A97-44B2-AD35-ACC8626DB11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB0BA07-18FF-4FEA-98FA-6C07C7B047CF}
+	EndGlobalSection
+EndGlobal
